@@ -201,8 +201,5 @@ The project successfully delivers a **secure, scalable, cloud-based analytics fr
 
 ---
 
-## 👤 Author  
 
-**Sudhanshu (Sudhu)**  
-Data Analytics & Data Engineering Enthusiast  
 
